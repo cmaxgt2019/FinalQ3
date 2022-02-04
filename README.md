@@ -1,5 +1,5 @@
-# FinalQ3
-* * *Proyecto final de Tecnología * * *
+# <h1>FinalQ3</h1>
+<marquee>* * *Proyecto final de Tecnología * * *</marquee>
 * Por medio de su cuenta de Github realizará los cambios solicitados al archivo index.html
 * Utilizará los conceptos aprendidos en clase.
 * Es importante recordarle que:
